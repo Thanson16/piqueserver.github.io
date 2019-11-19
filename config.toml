@@ -69,7 +69,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
             icon = "fas fa-newspaper"
             title = "Modern"
-            description = "A continuation of PySnip, Piqueserver runs on modern systems with Python 3."
+            description = "A continuation of PySnip, piqueserver runs on modern systems with Python 3."
 
         [[params.services.list]]
             icon = "fa-heart"
