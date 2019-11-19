@@ -34,7 +34,7 @@ theme = "hugo-creative-theme"
 			about     = "About"
 			services = "Why piqueserver?"
 			portfolio = "Screenshots"
-			contact = "Connect"
+			contact = "Resources"
 
 
 	# Hero section
@@ -67,7 +67,7 @@ theme = "hugo-creative-theme"
 			description = "Mature codebase provides reliable gameplay, modding capabilies, and extensive documentation."
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
+            icon = "fas fa-newspaper"
             title = "Modern"
             description = "A continuation of Pysnip, Piqueserver runs on modern systems and is migrating to Python 3."
 
@@ -94,7 +94,9 @@ theme = "hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
-		headline = "Get Involved!"
-		description = "Piqueserver is free software - free in cost, but also free as in freedom. We welcome any help in developing, bug reporting, or managing piqueserver."
+		headline = "More Resources!"
+		description = "Piqueserver is free software - free in cost, but also free as in freedom. As an open-source project, we welcome any help in developing, bug reporting, or managing piqueserver."
 		github = "https://github.com/piqueserver/piqueserver"
-		gitter = "https://gitter.im/piqueserver/piqueserver"
+		documentation = "https://piqueserver.readthedocs.io/en/latest/"
+		matrix = "https://riot.im/app/#/room/#piqueserver:matrix.org"
+		gitter = "https://gitter.im/piqueserver/piqueserver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"
