@@ -1,4 +1,4 @@
-baseurl = "https://thanson16.github.io/piqueserver.github.io/"
+baseurl = ""
 languageCode = "en-us"
 title = "piqueserver"
 theme = "hugo-creative-theme"
