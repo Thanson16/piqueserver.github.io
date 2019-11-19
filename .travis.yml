@@ -13,3 +13,5 @@ deploy:
     github_token: $PAGES_GITHUB_TOKEN
     local_dir: ./public
     fqdn: www.piqueserver.org
+    on:
+        all_branches: true
