@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 languageCode = "en-us"
 title = "piqueserver"
 theme = "hugo-creative-theme"
