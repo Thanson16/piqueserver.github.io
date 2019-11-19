@@ -109,7 +109,7 @@ aside {
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 700;
     color: #222;
 }
@@ -133,7 +133,7 @@ aside {
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.3);
-        background-color: transparent;
+        background-color: rgba(0,0,0,0.2);
     }
 
     .navbar-default .navbar-header .navbar-brand {
