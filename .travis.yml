@@ -1,8 +1,8 @@
-dist: xenial
+dist: bionic
 sudo: required
 addons:
     snaps:
-        -hugo
+        - hugo
 
 script:
     - hugo -D
